@@ -7,12 +7,12 @@
     <server>
       <id>mymaven-snapshots</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>sai2627@</password>
     </server>
     <server>
       <id>mymaven-releases</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>sai2627@</password>
     </server>
   </servers>
 
@@ -20,7 +20,7 @@
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://107.22.129.42:8081/repository/mymaven-central/</url>
+      <url>http://44.233.146.37:8081/repository/mymaven-central/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
